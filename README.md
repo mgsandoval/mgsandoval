@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi%20there!!%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hi%20there!!%20👋&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 # I'm Marlon Sandoval
 
@@ -11,4 +11,4 @@ I manage web technologies like React, where I build nice apps to manage your bus
 ## My stack
 [![My Skills](https://skillicons.dev/icons?i=nextjs,expressjs,tailwind,git,github,postman,docker,pnpm,dotnet,mysql)](https://skillicons.dev)
 
-Wanna contact me? **Check my portfolio here** 👉 https://portfolio-marlon-sandoval.vercel.app/
+Wanna contact me? **Check my portfolio here** 👉 <a href="https://portfolio-marlon-sandoval.vercel.app" target="_blank" rel="noopener noreferrer">https://portfolio-marlon-sandoval.vercel.app</a>
