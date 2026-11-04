@@ -21,7 +21,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           UTC_OFFSET: -6
-          THEME: "2077"
+          THEME: "github_dark"
           AUTO_PUSH: false
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
