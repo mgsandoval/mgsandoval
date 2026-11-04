@@ -12,3 +12,6 @@ I manage web technologies like React, where I build nice apps to manage your bus
 [![My Skills](https://skillicons.dev/icons?i=nextjs,expressjs,tailwind,git,github,postman,docker,pnpm,dotnet,mysql)](https://skillicons.dev)
 
 Wanna contact me? **Check my portfolio here** 👉 <a href="https://portfolio-marlon-sandoval.vercel.app" target="_blank" rel="noopener noreferrer">https://portfolio-marlon-sandoval.vercel.app</a>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mgsandoval&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=mgsandoval&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mgsandoval&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=mgsandoval&layout=compact&langs_count=4&theme=dark_github)
